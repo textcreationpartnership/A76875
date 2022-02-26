@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight in Ireland, between the Parliaments forces, commanded by Sir Charles Coot, and Col. Russels; and the kings forces, under the conduct and command of Gen. Preston, and the E. of Clanrickards upon his Lordships attempt to raise the siege with 4000 horse and foot, on the 11th of this instant Feb. 1652. Also, the particulars of the said fight; the total routing of the Irish army; 1500 slain upon the place, 700 taken prisoners; and a list of all their ordnance, arms, ammunition, bagg and baggage. Likewise, the storming of Dublin, the burning of 800 houses, or cabines, the putting of 500 men, women, and children to the sword; their seizing on the treasury, and taking great store of plate, and many thousand pounds in money.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76875</idno>
+            <idno type="STC">Wing B3248</idno>
+            <idno type="STC">Thomason E655_18</idno>
+            <idno type="STC">ESTC R205965</idno>
+            <idno type="EEBO-CITATION">99865179</idno>
+            <idno type="PROQUEST">99865179</idno>
+            <idno type="VID">117416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight in Ireland, between the Parliaments forces, commanded by Sir Charles Coot, and Col. Russels; and the kings forces, under the conduct and command of Gen. Preston, and the E. of Clanrickards upon his Lordships attempt to raise the siege with 4000 horse and foot, on the 11th of this instant Feb. 1652. Also, the particulars of the said fight; the total routing of the Irish army; 1500 slain upon the place, 700 taken prisoners; and a list of all their ordnance, arms, ammunition, bagg and baggage. Likewise, the storming of Dublin, the burning of 800 houses, or cabines, the putting of 500 men, women, and children to the sword; their seizing on the treasury, and taking great store of plate, and many thousand pounds in money.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Norton [i.e. Horton],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printer's name from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 1st"; "1651"; the "2" in the imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117416:1" rendition="simple:additions"/>
+            <p>A Bloudy EIGHT IN IRELAND, Between the Parliaments Forces, comman<g ref="char:EOLhyphen"/>ded by Sir Charles Coot, and Col. Ruſſels; and the Kings Forces, under the conduct and command of Gen. <hi>Preston,</hi> and the E. of <hi>Clanrick<g ref="char:EOLhyphen"/>ard;</hi> upon his Lordſhips Attempt to raiſe the ſiege with 4000 Horſe and Foot, on the 11<hi rend="sup">th</hi> of this inſtant <hi>Feb.</hi> 1652.</p>
+            <p>
+               <hi>ALSO,</hi> The particulars of the ſaid Fight; the total routing of the Iriſh Army; 1500 ſlain upon the place, 700 taken priſoners; and a Liſt of all their Ordnance, Arms, Ammunition, Bagg and Baggage.</p>
+            <p>
+               <hi>LIKEWISE,</hi> The ſtorming of Dublin, the burning of 800 Houſes, or Cabines, the putting of 500 Men, Women, and Children to the ſword; their ſeizing on the Treaſury, and taking great ſtore of Plate, and many thouſand pounds in Money.</p>
+            <p>
+               <add>March. 1<hi rend="sup">st</hi>.</add> 
+               <hi>London,</hi> Printed for <hi>G. NORTON,</hi> 1652. <add>1651</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117416:2"/>
+            <pb n="3" facs="tcp:117416:2"/>
+            <head>A Great VICTORY Obtained in IRELAND</head>
+            <head type="sub">By the Parliaments Forces, againſt General Preſton, and the Earl of Clanrickard with their whole Army, on the 11 of this inſtant Fe<g ref="char:EOLhyphen"/>bruary neer <hi>Gallaway.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt of the 24 of January laſt, it hath pleaſed God to crown his ſervants with a great Victory againſt the bloud-thirſty Enemy, whoſe pride of heart thought to have diſſipared us in a moment; but divine providence fruſtrated their wicked deſign; For Sir Charles Coot, and Colonel Ruſſel having received timely notice of the intenti<g ref="char:EOLhyphen"/>ons
+<pb n="4" facs="tcp:117416:3"/>of the Earl of Clanrickard to raiſe the ſiege at Gallaway, drew off a party of Horſe and Foot to a place called the Blind, 5 miles from the Leagure, there to lie in Ambuſcado, and to attend his motion the morning following (being the 11 inſtant) which was the time prefixed for relief of the Town; and accordingly, about 6 of the clock they marched by; which Sir Charles perceiving, immediatly gave com<g ref="char:EOLhyphen"/>mand for all his men to make ready, and forthwith he charged (in perſon) the Rearguard; which ſud<g ref="char:EOLhyphen"/>den Allarm did ſo aſtoniſh the Van, that they ſoon betook themſelves to flight, and in great diſorder expoſed themſelves to ſeveral Paſſes; but moſt of them were intercepted, about 1500 ſlain upon the place, and 700 taken priſoners: Thus it pleaſed Divine Providence ſo to blaſt and maugre their de<g ref="char:EOLhyphen"/>vices and ſtratagems, that of 4000, there eſcaped not above 1800; But in their Retreat they were met withall by Col. Sanchy, who charged them, and after a ſharp diſpute, routed them, killed many, and took divers priſoners, purſuing the reſt as far as the Bog of Moneal, where taking advantage of the froſt entred the Bog, ſtormed the ſtrong Caſtle of Mon<g ref="char:EOLhyphen"/>donall, and put all to the ſword: After which great ſucceſs, he marched to another ſtrong Hold (three miles diſtant) called Dublin; which place contained 800 Houſes, or Cabins; but he immediatly ſtorm<g ref="char:EOLhyphen"/>ed
+<pb n="5" facs="tcp:117416:3"/>that alſo, and killed 500 upon the place; In this gallant Attempt, the Colonel deported himſelf with a moſt magnanimous Spirit, being the firſt man that entred the Works; and the ſoldiers followed him ſo cloſe, that they ſoon became Maſters o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Town, for which ſingular piece of ſervice, he gave them the free plunder of the Town, which amount<g ref="char:EOLhyphen"/>ed to a great value; as will appear by the Liſt inclo<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>The Enemy hath lately made a deſperate ſalley out of Gallaway, and fell into our quarters, where they took a prey of neer 100 Cows, and 200 ſheep; But it pleaſed the Lord as they returned, a party of Col. Ruſſels reſcued the prey, fought the Enemy, kill'd 60 of them; and took an Enſign, and divers o<g ref="char:EOLhyphen"/>thers priſoners.</p>
+            <p>The Town hath held out a long time, expecting relief, but now they begin to hearken to a Treaty; and its believed that General Preſton (their Gover<g ref="char:EOLhyphen"/>nor) will deſert them, (leaving them to make their own Terms and Conditions) and betake himſelf to a ſtrong Iland of his in the Sea; and truly 'tis high time, for the ſouldiery begin to mutiny, and threaten to deliver him up to the mercy of the Parliament, in caſe he will not condeſcend to a Rendition of the Town.</p>
+            <list>
+               <pb n="6" facs="tcp:117416:4"/>
+               <head>A Liſt of the Arms, Ammunition, Cattel, and other rich Prizes, taken from the IRISH.</head>
+               <item>27 Pieces of Ord<g ref="char:EOLhyphen"/>nance.</item>
+               <item>1500 Muskets.</item>
+               <item>300 Pikes.</item>
+               <item>200 Piſtols.</item>
+               <item>150 Carbincs.</item>
+               <item>40 Barrels of pow<g ref="char:EOLhyphen"/>der.</item>
+               <item>Great ſtore of Bul<g ref="char:EOLhyphen"/>let and Match.</item>
+               <item>30000 Buſhels of Wheat.</item>
+               <item>500 Buſhels of o<g ref="char:EOLhyphen"/>ther Grain.</item>
+               <item>50 Fat Heifers.</item>
+               <item>300 ſheep.</item>
+               <item>200 Cowes.</item>
+               <item>80 Horſe.</item>
+               <item>13000 pounds in pieces of Eight; beſide great ſtore of Engliſh Mo<g ref="char:EOLhyphen"/>ney.</item>
+               <item>1000 Caſes of ſeve<g ref="char:EOLhyphen"/>ral ſorts of ſtrong Water.</item>
+               <item>100 barrels of Sy<g ref="char:EOLhyphen"/>der.</item>
+               <item>7 Buts of Wine.</item>
+               <item>500 Men, Women, and Children put to the ſword.</item>
+            </list>
+            <pb n="7" facs="tcp:117416:4"/>
+            <p> The laſt Letters from Ireland, of a more later date, confirms the certainty of the pre<g ref="char:EOLhyphen"/>cedent Victory; and withal aſcertains, that Lieu. Gen. Ludlow, Commiſſary General Reynolds, and Col. Venables, with their forces, have fallen upon the Enemy neer the Province of Ulſter, and after a ſharp diſpute, killed 700 upon the place, took a<g ref="char:EOLhyphen"/>bout 500 Officers and ſouldiers priſoners, and totally routed and diſſipated neer upon 3000. So that the Enemy hath no conſi<g ref="char:EOLhyphen"/>derable body left in any part of this N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on, except a party under the young Earl of Caſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lehaven, who doth much prejudice us in leveral places, by reaſon that the Coun<g ref="char:EOLhyphen"/>trey people are ſo treacherous, who doth exceedingly annoy us, and upon the leaſt opportunity, leaves their De<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and com<g ref="char:EOLhyphen"/>mits many outrages againſt our men, put<g ref="char:EOLhyphen"/>ting all to the ſword that they meet withal: Even the ſame meaſure we mete to them a<g ref="char:EOLhyphen"/>gain;
+<pb n="8" facs="tcp:117416:5"/>for truly in ſome places you may ride 20 miles, and ſcarce diſcern any thing, or ſix your eye upon any Object, but dead men hanging on Trees and Gibbots: A ſad ſpectacle; but there's no remedy; ſo per<g ref="char:EOLhyphen"/>fideous are the people, that we are inforced thereunto for the ſafeguard of our own lives. Col. Hewſon hath likewiſe made a gallant attempt againſt the Enemy, and hath taken 500 Head of Cattel, and diſſi<g ref="char:EOLhyphen"/>pated moſt of the enemies forces that were gathered to a Head about the Newry.</p>
+            <closer>
+               <dateline>Limerick <date>13 Feb. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
